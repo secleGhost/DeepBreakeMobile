@@ -10,10 +10,12 @@
 
 3.-Choose the time between each request in Timeout in milliseconds.
 
+4.-Do not close the app as this will stop the attack.
+
 Use different settings in Timeout and number of threads to throw a site.
 
 
-![alt text](https://github.com/secleGhost/DeepBrake/blob/d0f9e896a09a4a337be227d86e27e472272aa1c1/image/pepe.webp)
+![alt text](https://github.com/secleGhost/DeepBrake/blob/f8a3a72e408a647841873d623f4e3240b66f0681/image/pepe.png)
 
 
 Happy Hunting
